@@ -26,3 +26,14 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+
+This is a Ruby on Rails application I developed as part of the Building
+the Toolbelt of a Junior Ruby on Rails Developer class Summer of 2014
+
+Clone the repo locally
+cd into that directory
+bundle
+rails s
+
+Vist your copy at http://localhost:3000
